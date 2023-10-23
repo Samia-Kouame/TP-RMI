@@ -23,3 +23,12 @@ La table salle :
 
 
 
+
+TECHNOLOGIES UTILISEES :
+-------------------------
+Java Hibernate -- RMI (Remote Method Invocation) -- Java Swing
+
+CONCLUSION :
+------------
+Ce projet intègre les technologies Hibernate, RMI et Java Swing pour simplifier la gestion des salles et des machines, rendant ainsi la réservation de ressources plus facile. Il se caractérise par son interface conviviale, la persistance efficace des données via Hibernate, et la communication transparente grâce à RMI. L'ensemble de ces fonctionnalités en fait une solution précieuse pour optimiser les opérations de gestion des ressources.
+
