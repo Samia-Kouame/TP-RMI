@@ -1,5 +1,9 @@
 # TP-RMI
+#DESCRIPTION 
+
+Ce projet implémente une application de gestion des machines et des pièces. Elle offre la capacité d'ajouter, supprimer, modifier et organiser des machines en fonction de leur emplacement en utilisant la technologie RMI (Invocation de Méthode à Distance). Cette technologie de programmation permet aux objets Java d'interagir de manière transparente entre des machines distantes, appelées serveurs. Elle est intégrée dans la plateforme Java et simplifie le développement d'applications distribuées en Java.
 L interface Gestion des machines :
+
 ![0](https://github.com/Samia-Kouame/TP-RMI/assets/147660832/616ac8a4-1419-4edc-9e65-9a444dbf96da)
 L'ajout d'une machine : 
 ![1](https://github.com/Samia-Kouame/TP-RMI/assets/147660832/45407c28-2fc5-4fb3-b57e-28fe5371cefe)
